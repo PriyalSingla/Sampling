@@ -24,4 +24,4 @@ The dataset used in this project is available in Creditcard_data.csv. It contain
 **SVC (Support Vector Classifier)**  :A classifier that finds the hyperplane that best separates classes in a high-dimensional space by maximizing the margin between classes.  
 **GradientBoostingClassifier**  : A boosting ensemble method that builds a strong classifier by combining multiple weak classifiers in a stage-wise manner, minimizing the loss function's gradient.  
 
-we are generating 5 Datasets using above mentioned sampling techniques and then we calculate accuracy for predicted data for each model. Result is stored in **pivoted_classifier_results.csv**.
+we are generating 5 Datasets using above mentioned sampling techniques and then we calculate accuracy for predicted data for each model. Result is stored in **final.csv**.
